@@ -21,7 +21,7 @@ FOUNDATION_EXPORT const unsigned char VCTransitionsLibraryVersionString[];
 #import<VCTransitionsLibrary/CEVerticalSwipeInteractionController.h>
 #import<VCTransitionsLibrary/CEPinchInteractionController.h>
 
-#import<VCTransitionsLibrary/CEReversibleAnimationController.h
+#import<VCTransitionsLibrary/CEReversibleAnimationController.h>
 #import<VCTransitionsLibrary/CECubeAnimationController.h>
 #import<VCTransitionsLibrary/CEPanAnimationController.h>
 #import<VCTransitionsLibrary/CEFoldAnimationController.h>
