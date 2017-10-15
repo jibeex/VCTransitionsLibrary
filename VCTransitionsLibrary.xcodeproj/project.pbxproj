@@ -145,7 +145,7 @@
 				084ED94E1F9378AA0068C0B3 /* CETurnAnimationController.m */,
 			);
 			name = AnimationControllers;
-			path = ../../AnimationControllers;
+			path = ../AnimationControllers;
 			sourceTree = "<group>";
 		};
 		084ED94F1F9378AA0068C0B3 /* InteractionControllers */ = {
@@ -161,7 +161,7 @@
 				084ED9571F9378AA0068C0B3 /* CEVerticalSwipeInteractionController.m */,
 			);
 			name = InteractionControllers;
-			path = ../../InteractionControllers;
+			path = ../InteractionControllers;
 			sourceTree = "<group>";
 		};
 		084ED9761F9379A90068C0B3 /* Frameworks */ = {
